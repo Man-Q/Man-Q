@@ -65,4 +65,4 @@ Experienced Integration Developer with expertise in a wide range of integration 
 - Gaming
 
 ## 📞 Contact
-For inquiries or opportunities, reach out via email at maqoba.emannuel@gmail.com or phone at +27794852263.
+For inquiries or opportunities, reach out via email at maqoba.emannuel@gmail.com.
