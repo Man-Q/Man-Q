@@ -1,8 +1,8 @@
-# Maqoba Jiyane - Integration Developer
+# Manqoba Jiyane - Integration Developer
 
 ## 📞 Contact Information
-- **Name:** Maqoba Jiyane
-- **Occupation:** Student Developer
+- **Name:** Manqoba Jiyane
+- **Occupation:** Software Developer
 - **Location:** Centurion, South Africa
 - **E-mail:** maqoba.emannuel@gmail.com
 
@@ -10,17 +10,17 @@
 Experienced Integration Developer with expertise in a wide range of integration technologies and programming languages such as Java and Python. Skilled in API development, data integration, and integration design patterns. Proficient in version control, deployment, and ensuring security standards. Committed to excellence and driving seamless integration processes to meet business goals.
 
 ## 🔧 Skills
-- TestNG
-- Microsoft Azure
-- Object-Oriented Programming
-- Websphere Application Server
-- Postman API
-- Software automation
-- Quality Assurance Testing
-- HTML and XML
-- API design knowledge
-- Advanced SAP knowledge
-- Testing and maintenance
+![TestNG](https://img.shields.io/badge/TestNG-Expert-brightgreen)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Proficient-blue)
+![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-Proficient-blue)
+![Websphere Application Server](https://img.shields.io/badge/Websphere%20Application%20Server-Proficient-blue)
+![Postman API](https://img.shields.io/badge/Postman%20API-Proficient-blue)
+![Software automation](https://img.shields.io/badge/Software%20automation-Proficient-blue)
+![Quality Assurance Testing](https://img.shields.io/badge/Quality%20Assurance%20Testing-Proficient-blue)
+![HTML and XML](https://img.shields.io/badge/HTML%20and%20XML-Proficient-blue)
+![API design knowledge](https://img.shields.io/badge/API%20design%20knowledge-Proficient-blue)
+![Advanced SAP knowledge](https://img.shields.io/badge/Advanced%20SAP%20knowledge-Proficient-blue)
+![Testing and maintenance](https://img.shields.io/badge/Testing%20and%20maintenance-Proficient-blue)
 
 ## 🏆 Achievements & Awards
 - IBM Certified Solution Developer - App Connect Enterprise V11
