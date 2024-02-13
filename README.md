@@ -1,7 +1,7 @@
 # Maqoba Jiyane - Integration Developer
 
 ## 📞 Contact Information
-- **Name:** Manqoba Jiyane
+- **Name:** Maqoba Jiyane
 - **Occupation:** Software Developer
 - **Location:** Centurion, South Africa
 - **E-mail:** maqoba.emannuel@gmail.com
