@@ -1,4 +1,4 @@
-# Manqoba Jiyane - Integration Developer
+# Maqoba Jiyane - Integration Developer
 
 ## 📞 Contact Information
 - **Name:** Manqoba Jiyane
